@@ -20,9 +20,9 @@
 
 **Y_Test**:  all the test labels extracted from the *Y_test.txt* and put into a table. (2947 obs. of 1 var.)
 
-**Subject_Train**: a set of identifiers for each individual subject (person) who performed the activity for the training, per window sample. (they look like illegible symbols in the *subject_train.txt* file). (7352 obs. of 1 var.)
+**Subject_Train**: a set of identifiers for each individual subject (person) who performed the activity for the training, per window sample. (they look like illegible symbols in the *subject_train.txt* file because I am using the regular Notebook from windows). (7352 obs. of 1 var.)
 
-**Subject_Test**: a set of identifiers for each individual subject (person) who performed the activity for the testing, per window sample. (they look like illegible symbols in the *subject_test.txt* file). (2947 obs. of 1 var.)
+**Subject_Test**: a set of identifiers for each individual subject (person) who performed the activity for the testing, per window sample. (they look like illegible symbols in the *subject_test.txt* file because I am using the regular Notebook from windows). (2947 obs. of 1 var.)
 
 **Features**: the list of all the features extracted from the *features.txt* file and put into a table. (561 obs. of 2 vars.)
 
