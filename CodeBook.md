@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data-Course-Project Code Book
+# Getting and Cleaning Data Course Project Code Book
 
 ## In this section I will try to explain what each code from the script does and what the data is telling us
 
