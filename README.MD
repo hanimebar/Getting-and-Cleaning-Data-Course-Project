@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data-Course-Project
+# Getting and Cleaning Data Course Project
 This project required us to create an R-script that would take a set of data 
 from various files, in various folders, and merge it to create a single data-
 set that can be analysed once it runs through R. 
