@@ -46,7 +46,7 @@
 
 # Codes from the provided test files
 
-## **Study Design** extracted from the README.txt prvided about the experiment
+## **Study Design** extracted from the README.txt provided about the experiment
 "
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. 
 Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) 
